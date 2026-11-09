@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/plzscript/Rivals/refs/heads/main/YabujinHub_Rivals.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/plzscript/Rivals/refs/heads/main/Void.cc%20Rivals%20-%20Spaced%20(1).txt"))()
