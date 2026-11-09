@@ -1,1 +1,1 @@
-- Soon
+loadstring(game:HttpGet("https://raw.githubusercontent.com/plzscript/Rivals/refs/heads/main/YabujinHub_Rivals.lua.txt"))()
